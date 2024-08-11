@@ -1,0 +1,30 @@
+.fs-8{
+  font-size: 12px;
+}
+.bg-gray{
+  background-color: #F8F9FA;
+}
+.item_subtitle{
+  white-space:nowrap;
+}
+.content{
+  width: calc(100% - 296px);
+  margin-left: auto;
+  padding: 0 32px;
+}
+.list-group{
+  width: 44%;
+}
+.card{
+  width: calc(100% - 320px);
+}
+.card-area{
+  width: 66%;
+}
+.icon-unfilled {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
